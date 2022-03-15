@@ -93,7 +93,7 @@ Adding ratings to your Movie API.
 | Method | Action | URL | Functionality |
 |--------|:------:|:---:|:--------------|
 | GET | index | /movie | list all movies and incldue thier ratings |
-| POST | create | /movie/:id/rating Of /movie/:movieId/rating | add a new rating to a movie |
+| POST | create | /movie/:id/rating or /movie/:movieId/rating | add a new rating to a movie |
 | PUT / PATCH | update | /rating/:id | update one rating |
 | DELETE | delete | /rating/:id | delete one rating |
 
