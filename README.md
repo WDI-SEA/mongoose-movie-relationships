@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/sX12DTc.png" alt="Big GA Logo" />
-
 # ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Mongoose Relationship Movies 🎥
 
 Using what you have learned about Express, Express Routing, RESTful routing, CRUD operations, and Mongoose, use the Mongoose ODM to implement full CRUD functionality on an API that has data relationships that are bouth 1:M and N:M.
