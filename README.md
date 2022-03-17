@@ -113,7 +113,7 @@ Adding ratings to your Movie API.
 -------
 
 
-## **Part 3**: 
+## **Part 3** (Bonus): 
 
 Adding CastMembers to your movie API.
 
