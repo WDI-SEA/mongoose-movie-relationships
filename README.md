@@ -113,7 +113,7 @@ Adding ratings to your Movie API.
 -------
 
 
-## **Part 3** (Bonus): 
+<!-- ## **Part 3** (Bonus): 
 
 Adding CastMembers to your movie API.
 
@@ -166,7 +166,7 @@ Adding CastMembers to your movie API.
 2. Stub out your routes. For the purposes of initial declaration, `res.send("test")` to make sure you're hitting them.
 3. Update your routes to "do something" and make the magic happen!
 
--------
+------- -->
 
 
 ---
