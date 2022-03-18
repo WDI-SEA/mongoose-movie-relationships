@@ -166,10 +166,10 @@ Adding CastMembers to your movie API.
 2. Stub out your routes. For the purposes of initial declaration, `res.send("test")` to make sure you're hitting them.
 3. Update your routes to "do something" and make the magic happen!
 
-------- -->
+-------
 
 
----
+--- -->
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
